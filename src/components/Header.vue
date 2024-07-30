@@ -190,6 +190,7 @@
     .burger-menu{
         display: none;
         position: relative;
+        z-index: 999;
     }
 
         .burger-button {
