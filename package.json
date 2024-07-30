@@ -1,0 +1,22 @@
+{
+  "name": "cargo",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fancyapps/ui": "^5.0.36",
+    "vue": "^3.4.29",
+    "vue-input-mask": "^0.0.11",
+    "vue-router": "^4.4.0",
+    "vue-the-mask": "^0.11.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
