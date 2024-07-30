@@ -65,7 +65,7 @@
                     <li><RouterLink to="/#form" @click="toggleMenu" class="blink">Оформить заявку</RouterLink></li>
                     <li>
                         <a href="tel:+7(999)999-99-99" target="_blank" class="b-menu-link">
-                            <img src="../assets/images/header/phone2.png" alt="">
+                            <img src="../assets/images/header/phonesec.png" alt="">
                             <p>+7 (999) 999-99-99</p>
                         </a>
                     </li>
